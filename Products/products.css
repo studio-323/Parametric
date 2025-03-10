@@ -273,8 +273,36 @@ a:link{
 
 
 
+.showcase-play{
+    width: 90%;
+    height: 800px;
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.26s;
+}
 
+.showcase-play:hover{
+    transform: scale(0.98);
+    cursor: pointer;
+}
 
+.showcase-sport{
+    width: 90%;
+    height: 800px;
+    display: flex;
+    gap: 20px;
+    margin-top: 46px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.26s;
+}
+.showcase-sport:hover{
+    transform: scale(0.96);
+    cursor: pointer;
+}
 
 
 
